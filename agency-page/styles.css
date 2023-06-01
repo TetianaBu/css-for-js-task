@@ -23,6 +23,10 @@ strong {
   padding: 24px;
 }
 
+.intro-chunk {
+  max-width: 415px;
+}
+
 .title {
   margin: 48px auto;
 }
